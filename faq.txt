@@ -1,0 +1,17 @@
+---
+---
+Frequently asked questions
+==========================
+
+== What devices does Evernet target?
+
+Evernet mainly targets routers.
+
+== Where is the Evernet Wiki?
+
+This is work in progress.
+
+== Where is the Forum?
+
+This is work in progress.
+
