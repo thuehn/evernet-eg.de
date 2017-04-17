@@ -16,8 +16,10 @@
     <link rel="stylesheet" href="{{site.prefix}}css/coderay.css"/>
     <link rel="stylesheet" href="{{site.prefix}}css/asciidoctor.css"/>
     <link rel="stylesheet" href="{{site.prefix}}css/evernet.css"/>
+    <script src="{{site.prefix}}js/vendor/jquery.js"></script>
     <script src="{{site.prefix}}js/vendor/modernizr.js"></script>
     <script src="{{site.prefix}}js/toc.js"></script>
+    <script src="{{site.prefix}}js/foundation.min.js"></script>
 </head>
 <body>
 
@@ -30,7 +32,8 @@
         <li class="name">
             <h1>
                 <a href="#">
-                    <span class="top-bar-title">{{page.title}}</span>
+                    <img src="logo/evernet-logo-white.png" alt="{{page.title}}">
+                    <!--span class="top-bar-title">{{page.title}}</span-->
                 </a>
             </h1>
         </li>
@@ -95,8 +98,6 @@
     </div>
 </footer>
 
-<script src="{{site.prefix}}js/vendor/jquery.js"></script>
-<script src="{{site.prefix}}js/foundation.min.js"></script>
 <script>
     $(document).foundation();
 
