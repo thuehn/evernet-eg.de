@@ -7,7 +7,7 @@ p {
     line-height: 1.8;
 }
 
-h1, h2, h3, #toctitle, .sidebarblock>.content>.title, h4, h5, h6 {
+h1, h2, h3, #toctitle, .sidebarblock>.content>.title, h4, h5, h6, .fa-ul > li.active a {
     color: #0baf02;
 }
 
@@ -51,4 +51,5 @@ h1, h2, h3, #toctitle, .sidebarblock>.content>.title, h4, h5, h6 {
 .top-bar .top-bar-title {
     padding-left: 10px;
 }
+
 

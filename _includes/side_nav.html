@@ -1,8 +1,17 @@
 <h4>Links</h4>
 <div class="panel">
     <ul class="fa-ul">
-        <li><i class="fa-li fa fa-download" aria-hidden="true"></i><a href="https://github.com/thuen">Downloads</a></li>
-        <li><i class="fa-li fa fa-code-fork" aria-hidden="true"></i><a href="https://github.com/thuen">Git Repos</a></li>
-        <li><i class="fa-li fa fa-github" aria-hidden="true"></i><a href="https://github.com/thuen">Github</a></li>
+		<li{% if page.url == '/mitgliedschaft.html' %} class="active"{% endif %}><a href="{{ site.prefix }}mitgliedschaft.html">Mitgliedschaft</a></li>
+		<li{% if page.url == '/ueber-uns.html' %} class="active"{% endif %}><a href="{{ site.prefix }}ueber-uns.html">Über uns</a></li>
+		<li{% if page.url == '/funktionsweise.html' %} class="active"{% endif %}><a href="{{ site.prefix }}funktionsweise.html">Funktionsweise</a></li>
+		<li{% if page.url == '/kontakt.html' %} class="active"{% endif %}><a href="{{ site.prefix }}kontakt.html">Kontakt</a></li>
+		<li{% if page.url == '/faq.html' %} class="active"{% endif %}><a href="{{ site.prefix }}faq.html">FAQ</a></li>
     </ul>
+</div>
+<div class="panel">
+	<ul class="fa-ul">
+		<li><i class="fa-li fa fa-download" aria-hidden="true"></i><a href="https://github.com/thuen">Downloads</a></li>
+		<li><i class="fa-li fa fa-code-fork" aria-hidden="true"></i><a href="https://github.com/thuen">Git Repos</a></li>
+		<li><i class="fa-li fa fa-github" aria-hidden="true"></i><a href="https://github.com/thuen">Github</a></li>
+	</ul>
 </div>

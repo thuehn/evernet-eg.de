@@ -3,19 +3,16 @@
 Evernet
 =======
 
-== Breitbandversorgung - ländlicher Raum
+== Welcome to the Evernet project what
 
-Wir bieten die Möglichkeit einer Breitbandversorgung in ländlichen Gebieten, die keinen oder nur eingeschränkten Internetzugang haben. Dazu verwenden wir eine auf Funk basierende Kommunikationsstruktur.
+The Evernet project is cool. 
 
-Derzeit haben wir - neben Sundhausen - drei weitere Gemeinden mit unserer Funktechnik vernetzt. Hier können wir Bandbreiten von bis zu 48 MBit zur Verfügung stellen.
+test seite im aufbau.
 
-Auf Wunsch sind auch Punkt-zu-Punkt-Verbindungen mit höheren Bandbreiten möglich.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed mi dolor, interdum vel libero nec, vehicula imperdiet tortor. Donec egestas semper velit, et dapibus augue porttitor sit amet. 
 
-Auch wenn Sie sich nicht in unserem unmittelbaren Einzugsgebiet befinden, stehen wir Ihnen gern mit unserem Know-How zur Verfügung.
-
-Nehmen Sie einfach mit uns Kontakt auf.
-
-Refer to our link:ueber-uns.html[about page] to learn more about the projects
+Refer to our link:about.html[about page] to learn more about the projects
 origins.
 
 === How can I use Evernet?
@@ -28,4 +25,4 @@ Nulla efficitur ligula ut tortor hendrerit, in congue quam vehicula. Aliquam nec
 
 === Router Images
 
-You can download lede images at link:lede-images[/download/]
+You can download lede images at link:download/2012_02_18_BE_ZV_Ausfuellhilfe_private_mit_Briefkopf.pdf[/pdf/]
