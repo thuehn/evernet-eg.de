@@ -3,4 +3,5 @@
 /.bundle/
 /tmp/
 *.bundle
+*.sublime*
 Gemfile.lock
