@@ -1,0 +1,39 @@
+---
+---
+Über uns
+========
+
+== Über uns
+
+=== Die Evernet-EG
+
+Zweck der Genossenschaft ist die wirtschaftliche Förderung und Betreuung der Mitglieder durch gemeinschaftlichen Geschäftsbetrieb. Produkte, Projekte und Dienstleistungen der Genossenschaft tragen dazu bei, den fairen und reibungslosen Austausch von Leistungen zu sichern, Kapital regional und wachstumsgerecht zu erhalten und zu investieren, gemeinnützige Vorhaben der Regionalentwicklung zu fördern und eine wertstabile und sozial ausgewogene Entwicklung zu unterstützen.
+
+=== Gegenstand des Unternehmens ist
+. die technische und soziale Vernetzung der Mitglieder durch die Schaffung gemeinschaftlicher Kommunikationsstrukturen 
+. die Übernahme kommunaler Aufgaben zur Förderung der Infrastruktur im ländlichen Raum
+. Erbringung von Dienstleistungen und Handel mit Waren im Bereich der Informationstechnologie und des Wissens
+. der Abschluss von Rahmenverträgen für Mitglieder
+. Beratung und Schulungen im Bereich der Technologie und der Kommunikation
+
+=== Projekt
+* Schnelle Internetanbindung eines Dorfes
+* Sundhausen und Urleben, beide in Thüringen gelegen, waren vor kurzem noch ein weißer Fleck auf dem Breitbandatlas.
+
+Um für die Orte eine schnelle Internetanbindung zu schaffen, wurde in einer breitbandig versorgten Nachbargemeinde ein schneller Internet-Anschluss gemietet und mittels Funktechnik nach Sundhausen und Urleben übertragen. In den Orten selbst erfolgt die Verteilung an die einzelnen Haushalte per Funk, über ein Mesh-Netzwerk.
+
+Dank der verwendeten Mesh-Technologie und dem Aufbau weiterer Richtfunkstrecken zur Erhöhung der Redundanz, gelang es, eine sehr ausfallsichere und schnelle Internetversorgung zu schaffen, die den Einwohnern der zwei Ortschaften flächendeckend zur Verfügung steht. 
+
+Download: link:download/bittorf_wireless))_Fallstudie_Breitbandanbindung_Land.pdf[Sundhausen (PDF)]
+
+Ein Gemeinschaftsprojekt der Evernet eG und bittorf wireless.
+
+
+image:logo/solar-flare1.jpg["The Evernet logo",role="left"]
+The name _Evernet_ is cool.
+
+
+
+
+Die Evernet-EG
+Dezember 2009

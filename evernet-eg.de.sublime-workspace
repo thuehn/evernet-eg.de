@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"get",
+				"getPropertyAsString"
+			],
+			[
+				"getp",
+				"getPropertyAsString"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "jsp",
+		"selected_items":
+		[
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mcp/evernet-eg.de"
+	],
+	"file_history":
+	[
+		"/Users/mcp/evernet-eg.de/_plugins/multiple-languages/lib/jekyll-multiple-languages-plugin.rb",
+		"/Users/mcp/evernet-eg.de/README.md",
+		"/Users/mcp/004projects/iravin.com/webshop-war/src/main/webapp/jsp/catalog/start.jsp",
+		"/Users/mcp/004projects/iravin.com/iravin.com.sublime-project",
+		"/Users/mcp/Library/Application Support/Sublime Text 3/Packages/User/tabTrigger.sublime-snippet",
+		"/Users/mcp/Downloads/004_assignment/js/main.js",
+		"/Users/mcp/Downloads/004_assignment/style.css",
+		"/Users/mcp/Downloads/004_assignment/index.html",
+		"/Users/mcp/004projects/iravin.com/webshop-war/src/main/webapp/sftp-config.json",
+		"/Users/mcp/004projects/iravin.com/webshop-war/src/main/webapp/jsp/catalog/show_products_navigation.jsp",
+		"/Users/mcp/004projects/brandshop.004gmbh.de/webshop-war/src/main/resources/mail/order_htm_de.xsl",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/ar/gcs.accordion.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/sftp-config.json",
+		"/Users/mcp/004projects/cottonilshop.com/cottonil.com.sublime-project",
+		"/Users/mcp/004projects/thefashionhub.com/thefashionhub.sublime-project",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/catalog/show_products_list.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/footer.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/header.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/ar/header.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/header.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/ar/footer.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/catalog/show_products_list_include.jsp",
+		"/Users/mcp/004projects/brandshop.004gmbh.de/webshop-war/src/main/webapp/jsp/templates/title_header_body_footer.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/templates/title_header_body_footer.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/static/_subnavigation.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/WEB-INF/i18n/en.json",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/WEB-INF/i18n/de.json",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/footer.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/template.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/start.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/WEB-INF/features.xml",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/header_cart.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/css/header-copy.css",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/js/jquery/jquery.tooltip.js",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/Gruntfile.js",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/WEB-INF/url-mappings.xml",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/catalog/start.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/catalog/show_products_navigation.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/jsp/catalog/show_product.jsp",
+		"/Users/mcp/004projects/cottonilshop.com/webshop-war/src/main/webapp/WEB-INF/i18n/ar.json",
+		"/Users/mcp/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/mcp/004projects/mylist.ae/webshop-war/src/main/webapp/sftp-config.json",
+		"/Users/mcp/004projects/brandshop.004gmbh.de/brandshop.004gmbh.de.sublime-project",
+		"/Users/mcp/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mcp/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"useradd",
+			"blockquote",
+			"index.html",
+			"skeleton",
+			"head lang=\"",
+			"frontmatter",
+			"language",
+			"page",
+			"layout",
+			"about.txt",
+			"lang",
+			"hover",
+			"allServiceLabels",
+			"productServicesLabel",
+			".homepage .slider-container > div .item a .price",
+			"make",
+			"sugge",
+			"fields:f",
+			"our",
+			"HOMEPAGE_TEASER_C",
+			"brandsPageID",
+			".homepage .slider-container>div .owl-prev,",
+			"suggestion-slider",
+			"slider-container",
+			"andMainProducts",
+			"filters",
+			"suggestedProducts",
+			"flag",
+			".homepage .homepageAbContainer .teaser-a ~ .teaser-a",
+			"homepageAbOpened",
+			"#homepage-slider",
+			"or ",
+			"or",
+			"suggestedProducts",
+			"h2",
+			"input",
+			".button",
+			"alternatives",
+			"bx-",
+			"bx-wrapper",
+			"alternatives",
+			"CONNECT WITH US",
+			"sear",
+			"profile",
+			"Copyright",
+			"$('#cat-menu').mmenu({",
+			"i18n.settings.lang",
+			"i18",
+			"de.json",
+			"mmenu_rtluse",
+			".dropdown-list",
+			"form.localeForm .dropdown-list",
+			".header .menu .wrapper .options form.localeForm .dropdown-list",
+			"staticnode.",
+			"staticNodeHomePageId",
+			"json",
+			"staticNodeHomePage",
+			"alternatives",
+			"label2",
+			"try",
+			"allRelatedProducts",
+			".flyout",
+			".header .nav .cart-mini .flyout",
+			"liste",
+			"level2",
+			".footer .container .wrapper .left .social a",
+			".header .menu .wrapper .options form.localeForm",
+			"form.localeForm .dropdown-list",
+			"dropdown-element",
+			"class=\"alternatives",
+			"alternatives",
+			"icon-container",
+			"currencySelect",
+			"<feature name=\"",
+			"\" active=\"",
+			"sugg",
+			"suggestedProducts",
+			"slider-container",
+			"•",
+			"preventDefault",
+			"empty",
+			"list",
+			"level2",
+			"300px",
+			".header .nav .wrapper ul.level1 li .level2>li",
+			"flyoutimage",
+			"ul.level2",
+			"level2",
+			"_subnavigation",
+			"transi",
+			"level2",
+			"webkit",
+			".header .nav .wrapper ul.level1 > li:hover",
+			"#homepage-slider",
+			"fff",
+			", .",
+			"--",
+			"\t}\n\n}",
+			"    ",
+			"}",
+			"{",
+			";",
+			"--KTbT8yRDNar",
+			"assets/",
+			".header .nav",
+			"0",
+			".footer .container .wrapper .center",
+			".header .menu .wrapper .options form.currencyForm .dropdown-list.active",
+			".header .menu .wrapper .options form.currencyForm,",
+			"select-bg",
+			".header .menu .wrapper .options form.currencyForm .dropdown-container",
+			"alternatives",
+			".header .nav .wrapper",
+			"#homepage-slider",
+			".header .menu .advertise",
+			"left",
+			"ShowProductsPage",
+			"PaginationOnScroll",
+			"bar",
+			"#homepage-slider",
+			".header .nav .cart-mini a.cart",
+			".footer .container",
+			".fixedindent",
+			"?",
+			"left",
+			"a",
+			"footer",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t}\n}",
+			"assets/",
+			"<%=manager.getCurrency().getCurrencyCode()%>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "evernet-eg.de.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemsp",
+				"_plugins/multiple-languages/lib/jekyll-multiple-languages-plugin.rb"
+			],
+			[
+				"sho",
+				"jsp/catalog/show_products_list_include.jsp"
+			],
+			[
+				"show",
+				"jsp/catalog/show_products_list.jsp"
+			],
+			[
+				"footer",
+				"jsp/footer.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

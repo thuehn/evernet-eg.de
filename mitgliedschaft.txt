@@ -1,0 +1,27 @@
+---
+---
+Evernet
+=======
+
+== Mitgliedschaft
+
+=== Sie wollen Mitglied werden?
+
+Wir würden uns freuen, Sie als neues Mitglied unserer Genossenschaft Evernet eG begrüßen zu dürfen.
+
+Dazu müssen Sie nur das entsprechende Dokument herunterladen, ausfüllen, unterschreiben und per Post an unsere Adresse senden.
+ 
+* link:download/2012_02_18_BE_ZV_Ausfuellhilfe_private_mit_Briefkopf.pdf[Beitrittserklärung und Zahlungsvereinbarung für Privatpersonen (PDF)]
+* link:download/2012_11_22_BE_ZV_Ausfuellhilfe_gewerbliche_mit_Briefkopf.pdf[Beitrittserklärung und Zahlungsvereinbarung für Unternehmen  (PDF)]
+
+Sollten Sie unser Funknetz derzeit nicht nutzen können oder nicht nutzen wollen und trotzdem Mitglied unserer Genossenschaft werden wollen, dann schreiben Sie uns eine E-Mail. 
+Bitte nehmen Sie auch unsere Satzung und unsere Beitragsordnung zur Kenntnis. Mit der unterschriebenen und bei uns eingegangenen Beitrittserklärung versichern Sie uns, ein Exemplar der Satzung sowie der Beitrags- und Gebührenordnung erhalten und deren Inhalt nach Kenntnisnahme anerkannt zu haben. 
+
+* link:download/Satzung-2009-06-27.pdf[Satzung der Evernet eG (PDF)]
+* link:download/2012_11_22_Beitragsordnung.pdf[Beitragsordnung der Evernet eG  (PDF)]
+
+Und ganz zum Schluss benötigen Sie selbstverständlich noch die entsprechende Technik, um unser Funknetz überhaupt nutzen zu können. Wir empfehlen, eines unseres vorkonfigurierten Funkpakete zu erwerben, da wir nur so das bestmögliche Funknetz für unsere Mitglieder vorhalten können. 
+
+Fragen → link:faq.html[FAQ] 
+
+Ihre Evernet eG 
