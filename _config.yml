@@ -2,7 +2,7 @@
 
 title: 'Welcome to the Evernet project'
 
-exclude: [ 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README' ]
+exclude: [ 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README', vendor ]
 
 prefix: '/'
 
@@ -14,5 +14,7 @@ asciidoctor:
     - hardbreaks!
 
 asciidoc_ext: txt
+
+url: evernet.eg
 
 # end of configuration
