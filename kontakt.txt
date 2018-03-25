@@ -1,40 +1,26 @@
 ---
 ---
-Test - About the Evernet project
-==========================
+Kontakt
+=======
 
-== The idea of test
+== Kontakt
 
-Aenean sollicitudin odio purus, vel consequat eros fringilla ut. Mauris malesuada magna non vulputate cursus. Suspendisse nec nisi vestibulum, hendrerit est vel, pharetra ex. Sed molestie sem sed urna bibendum placerat. Pellentesque non blandit purus. Integer tincidunt, ligula non consectetur ornare, urna lorem efficitur lorem, at feugiat ex dui maximus eros. Maecenas metus turpis, venenatis eget lacus vel, consequat convallis mauris. 
+==== Schreiben Sie uns!
 
-Evernet’s stated goals are:
-
-* Make
-* Smart energy
-* great again
-
-We decided to create this new project because of long standing issues that we were unable to fix from within the current smart energy situation:
-
-. first
-. second
-. third
-
-To address these issues we set up the Evernet project.
-
-== Name
-
-image:logo/solar-flare1.jpg["The Evernet logo",role="left"]
-The name _Evernet_ is cool.
+Ihr Name:
 
 
-== People
 
-Here you can find an alphabetically ordered list of the current people involved in _Evernet_ development:
+Ihre E-Mail-Adresse:
 
-[cols="2*1",options="header"]
-|====
-| Real Name | Nickname
-| a | b
-| c | d
-| e | f
-|====
+
+
+Ihr Interesse:
+
+
+
+Ihre Nachricht:
+ +
+ +
+ +
+(C) 2018 link:evernet-eg.de[]

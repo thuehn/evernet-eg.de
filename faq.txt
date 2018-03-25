@@ -1,17 +1,53 @@
 ---
 ---
-Frequently asked questions
-==========================
+FAQ
+===
 
-== What devices does Evernet target?
+== Häufig gestellte Fragen
 
-Evernet mainly targets routers.
+=== Welche Produkte bietet die Evernet eG an?
 
-== Where is the Evernet Wiki?
+*Funkpakete*
+[%header, cols="1,1,4,1"]
+|===
+|Artikel-Nr.
+|Kurzbe- zeichnung
+|Beschreibung
+|Preis
 
-This is work in progress.
+|50
+|EIF
+|Evernet-Indoor-Funktpaket +
+[.small]#bestehend aus vorkonfiguriertem WLAN-Router, 9dBi Rundstrahl-Antenne und Zubehör#
+|50,00 €
 
-== Where is the Forum?
+|60
+|EBF
+|Evernet-Basis-Funkpaket +
+[.small]#bestehend aus vorkonfiguriertem WLAN-Router, 6dBi Rundstrahl-Antenne, 1,5m N auf N RF5 Kabel, 15m CAT5 Patchkabel#
+|120,00 €
 
-This is work in progress.
+|70
+|ECF
+|Evernet-Comfort-Funkpaket +
+[.small]#bestehend aus vorkonfiguriertem WLAN-(USB)-Router, 6dBi Rundstrahl-Antenne, 1,5m N auf N RF5 Kabel, 15m CAT5 Patchkabel, Broadcom miniPCI#
+|195,00 €
 
+|80
+|EPF
+|Evernet-Premium-Funkpaket +
+[.small]#bestehend aus vorkonfiguriertem ALIX Board 3d3, Wistron CM9, Pigtails, Gehäuse, 6dBi Rundstrahl-Antenne, 1,5m N auf N RF5 Kabel, 15m CAT5 Patchkabel, CF-Karte 4GB#
+|295,00 €
+|===
+
+=== Wie kann ich Mitglied werden?
+
+=== Welche Geräte brauche ich und wie viel kostet das?
+
+=== Muss ich den Router von der Evernet eG kaufen?
+
+vielleicht
+ +
+ +
+ +
+(C) 2018 link:evernet-eg.de[]

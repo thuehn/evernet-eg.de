@@ -3,26 +3,20 @@
 Evernet
 =======
 
-== Welcome to the Evernet project what
+== Funktionsweise
 
-The Evernet project is cool. 
+=== Das Evernet-Prinzip
 
-test seite im aufbau.
+Dezember 2009 +
+image:logo/topografie.png[]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Sed mi dolor, interdum vel libero nec, vehicula imperdiet tortor. Donec egestas semper velit, et dapibus augue porttitor sit amet. 
+Jeder Teilnehmer vergrößert mit seiner Antenne unser gemeinsames Funknetz.
+Gleichzeitig ist er nicht Kunde sondern Teilhaber an der Genossenschaft "Evernet eG".
+Wenn es sich für die Großen nicht rechnet, ihr Netzwerk zu uns zu legen, dann bauen wir unser eigenes Evernet.
 
-Refer to our link:about.html[about page] to learn more about the projects
-origins.
-
-=== How can I use Evernet?
-
-Nulla sit amet enim vitae libero consectetur vulputate a nec augue. Maecenas luctus mauris eget tortor fermentum, sit amet iaculis elit lacinia. In interdum lectus at varius dignissim. Nulla commodo magna in euismod feugiat. Pellentesque hendrerit eros a nisi suscipit, quis fringilla turpis sagittis.
-
-=== What is Evernet’s target audience?
-
-Nulla efficitur ligula ut tortor hendrerit, in congue quam vehicula. Aliquam nec sapien ex. Nullam mollis ex turpis, sed accumsan tellus faucibus et. Fusce consequat purus eu ullamcorper maximus. Nulla mattis eu eros sit amet finibus. Mauris a tortor nulla. Nunc vitae eros blandit lacus interdum gravida id nec lacus. Pellentesque facilisis scelerisque sem, sit amet consequat lacus consectetur ab.
-
-=== Router Images
-
-You can download lede images at link:download/2012_02_18_BE_ZV_Ausfuellhilfe_private_mit_Briefkopf.pdf[/pdf/]
+So entsteht ein schnelles und kostengünstiges Datennetz, dass mit 16-, 50- und 100-MBit DSL-Anschlüssen gespeist wird.
+Die maximale Downloadgeschwindigkeit beträgt 10 MByte/sek und die maximale Uploadgeschwindigkeit 4 MByte/sek.
+ +
+ +
+ +
+(C) 2018 link:evernet-eg.de[]

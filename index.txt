@@ -13,19 +13,8 @@ Auf Wunsch sind auch Punkt-zu-Punkt-Verbindungen mit höheren Bandbreiten mögli
 
 Auch wenn Sie sich nicht in unserem unmittelbaren Einzugsgebiet befinden, stehen wir Ihnen gern mit unserem Know-How zur Verfügung.
 
-Nehmen Sie einfach mit uns Kontakt auf.
-
-Refer to our link:ueber-uns.html[about page] to learn more about the projects
-origins.
-
-=== How can I use Evernet?
-
-Nulla sit amet enim vitae libero consectetur vulputate a nec augue. Maecenas luctus mauris eget tortor fermentum, sit amet iaculis elit lacinia. In interdum lectus at varius dignissim. Nulla commodo magna in euismod feugiat. Pellentesque hendrerit eros a nisi suscipit, quis fringilla turpis sagittis.
-
-=== What is Evernet’s target audience?
-
-Nulla efficitur ligula ut tortor hendrerit, in congue quam vehicula. Aliquam nec sapien ex. Nullam mollis ex turpis, sed accumsan tellus faucibus et. Fusce consequat purus eu ullamcorper maximus. Nulla mattis eu eros sit amet finibus. Mauris a tortor nulla. Nunc vitae eros blandit lacus interdum gravida id nec lacus. Pellentesque facilisis scelerisque sem, sit amet consequat lacus consectetur ab.
-
-=== Router Images
-
-You can download lede images at link:lede-images[/download/]
+Nehmen Sie einfach mit uns link:kontakt.html[Kontakt] auf.
+ +
+ +
+ +
+(C) 2018 link:evernet-eg.de[]

@@ -17,8 +17,8 @@ Zweck der Genossenschaft ist die wirtschaftliche Förderung und Betreuung der Mi
 . Beratung und Schulungen im Bereich der Technologie und der Kommunikation
 
 === Projekt
-* Schnelle Internetanbindung eines Dorfes
-* Sundhausen und Urleben, beide in Thüringen gelegen, waren vor kurzem noch ein weißer Fleck auf dem Breitbandatlas.
+==== Schnelle Internetanbindung eines Dorfes
+Sundhausen und Urleben, beide in Thüringen gelegen, waren vor kurzem noch ein weißer Fleck auf dem Breitbandatlas.
 
 Um für die Orte eine schnelle Internetanbindung zu schaffen, wurde in einer breitbandig versorgten Nachbargemeinde ein schneller Internet-Anschluss gemietet und mittels Funktechnik nach Sundhausen und Urleben übertragen. In den Orten selbst erfolgt die Verteilung an die einzelnen Haushalte per Funk, über ein Mesh-Netzwerk.
 
@@ -37,3 +37,7 @@ The name _Evernet_ is cool.
 
 Die Evernet-EG
 Dezember 2009
+ +
+ +
+ +
+(C) 2018 link:evernet-eg.de[]
