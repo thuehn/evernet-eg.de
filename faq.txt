@@ -5,7 +5,7 @@ FAQ
 
 == Häufig gestellte Fragen
 
-=== Welche Produkte bietet die Evernet eG an?
+=== Was ist die Evernet eG?
 
 *Funkpakete*
 [%header, cols="1,1,4,1"]
