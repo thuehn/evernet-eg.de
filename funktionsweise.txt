@@ -14,7 +14,6 @@ Jeder Teilnehmer vergrößert mit seiner Antenne unser gemeinsames Funknetz.
 Gleichzeitig ist er nicht Kunde sondern Teilhaber an der Genossenschaft "Evernet eG".
 
 So entsteht ein schnelles denzentral organisiert und bentriebenes Datennetz.
-Die maximale Downloadgeschwindigkeit beträgt 10 MByte/sek und die maximale Uploadgeschwindigkeit 4 MByte/sek.
  +
  +
  +
