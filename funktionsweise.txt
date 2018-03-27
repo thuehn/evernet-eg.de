@@ -12,9 +12,8 @@ image:logo/topografie.png[]
 
 Jeder Teilnehmer vergrößert mit seiner Antenne unser gemeinsames Funknetz.
 Gleichzeitig ist er nicht Kunde sondern Teilhaber an der Genossenschaft "Evernet eG".
-Wenn es sich für die Großen nicht rechnet, ihr Netzwerk zu uns zu legen, dann bauen wir unser eigenes Evernet.
 
-So entsteht ein schnelles und kostengünstiges Datennetz, dass mit 16-, 50- und 100-MBit DSL-Anschlüssen gespeist wird.
+So entsteht ein schnelles denzentral organisiert und bentriebenes Datennetz.
 Die maximale Downloadgeschwindigkeit beträgt 10 MByte/sek und die maximale Uploadgeschwindigkeit 4 MByte/sek.
  +
  +
